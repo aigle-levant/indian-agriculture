@@ -45,3 +45,9 @@ This is a part of my project for Edunet Foundation internship on AI / Green Tech
 - Rabi : 2015
 - Winter : 2015
 - Whole year : 2017
+
+## Screenshots
+
+![image-one](picOne.png)
+
+![image-two](picTwo.png)
